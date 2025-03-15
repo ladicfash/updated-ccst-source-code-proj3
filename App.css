@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-image: url('https://media.istockphoto.com/id/1406674466/photo/big-data-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=OPoKST8TVjklrGs89VnPDduGvp9zwiMXnavSruKMLyI=');
+  background-size: cover;
+  background-position: center;
+  color: rgb(250, 250, 250);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgba(25, 109, 60, 0.74);
+  color: rgb(48, 37, 37);
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+}
