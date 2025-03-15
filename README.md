@@ -51,4 +51,4 @@ This application is a flashcard app designed to help users study Cisco's CCST co
 - **Submit your project** in any state by the deadline. You can continue to work on your project with a 48-hour extension.
 
 ## GIF Walkthrough
-![GIF Walkthrough](path-to-your-gif.gif)
+![GIF Walkthrough] https://imgur.com/a/U2oS4YX
